@@ -1,0 +1,8 @@
+prefix=/home/chd/uwslam_ws/devel
+
+Name: rbpf_slam
+Description: Description of rbpf_slam
+Version: 0.0.0
+Cflags: -I/home/chd/uwslam_ws/src/UWExploration/slam/rbpf_slam/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime actionlib_msgs sensor_msgs std_msgs slam_msgs

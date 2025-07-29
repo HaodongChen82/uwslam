@@ -1,0 +1,428 @@
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target _auv_model_generate_messages_check_deps_SssSimFeedback
+[  0%] Built target _auv_model_generate_messages_check_deps_MbesSimAction
+[  0%] Built target _auv_model_generate_messages_check_deps_MbesSimGoal
+[  0%] Built target _auv_model_generate_messages_check_deps_SssSimActionResult
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target _auv_model_generate_messages_check_deps_MbesSimActionGoal
+[  0%] Built target _auv_model_generate_messages_check_deps_MbesSimActionFeedback
+[  0%] Built target _auv_model_generate_messages_check_deps_SssSimAction
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _auv_model_generate_messages_check_deps_SssSimResult
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target _auv_model_generate_messages_check_deps_MbesSimActionResult
+[  0%] Built target _auv_model_generate_messages_check_deps_SssSimGoal
+[  0%] Built target _auv_model_generate_messages_check_deps_Sidescan
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _auv_model_generate_messages_check_deps_MbesSimResult
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target _auv_model_generate_messages_check_deps_SssSimActionGoal
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target _auv_model_generate_messages_check_deps_MbesSimFeedback
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  1%] Building CXX object UWExploration/sim_auv/auv_model/third_party/cnpy/CMakeFiles/cnpy.dir/cnpy.cpp.o
+[  1%] Built target roscpp_generate_messages_cpp
+[  1%] Built target roscpp_generate_messages_nodejs
+[  1%] Built target roscpp_generate_messages_lisp
+[  1%] Built target roscpp_generate_messages_eus
+[  1%] Built target roscpp_generate_messages_py
+[  1%] Built target _auv_model_generate_messages_check_deps_SssSimActionFeedback
+[  1%] Built target rosgraph_msgs_generate_messages_lisp
+[  1%] Built target rosgraph_msgs_generate_messages_cpp
+[  1%] Built target rosgraph_msgs_generate_messages_eus
+[  1%] Built target rosgraph_msgs_generate_messages_py
+[  1%] Built target rosgraph_msgs_generate_messages_nodejs
+[  1%] Built target tf_generate_messages_cpp
+[  1%] Built target tf_generate_messages_eus
+[  1%] Built target tf_generate_messages_nodejs
+[  1%] Built target tf_generate_messages_lisp
+[  1%] Built target tf_generate_messages_py
+[  1%] Built target actionlib_generate_messages_cpp
+[  1%] Built target actionlib_generate_messages_lisp
+[  1%] Built target actionlib_generate_messages_eus
+[  1%] Built target actionlib_generate_messages_nodejs
+[  1%] Built target tf2_msgs_generate_messages_cpp
+[  1%] Built target tf2_msgs_generate_messages_eus
+[  1%] Built target actionlib_generate_messages_py
+[  1%] Built target tf2_msgs_generate_messages_lisp
+[  1%] Built target tf2_msgs_generate_messages_py
+[  1%] Built target tf2_msgs_generate_messages_nodejs
+[  1%] Built target _slam_msgs_generate_messages_check_deps_PlotPosteriorActionResult
+[  1%] Built target _slam_msgs_generate_messages_check_deps_PlotPosteriorAction
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MbResult
+[  1%] Built target _slam_msgs_generate_messages_check_deps_PlotPosteriorActionGoal
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MbRequest
+[  1%] Built target _slam_msgs_generate_messages_check_deps_Resample
+[  1%] Built target _slam_msgs_generate_messages_check_deps_SamplePosteriorActionResult
+[  1%] Built target _slam_msgs_generate_messages_check_deps_PlotPosteriorFeedback
+[  1%] Built target _slam_msgs_generate_messages_check_deps_SamplePosteriorAction
+[  1%] Built target _slam_msgs_generate_messages_check_deps_PlotPosteriorResult
+[  1%] Built target _slam_msgs_generate_messages_check_deps_SamplePosteriorActionGoal
+[  1%] Built target _slam_msgs_generate_messages_check_deps_PlotPosteriorActionFeedback
+[  1%] Built target _slam_msgs_generate_messages_check_deps_PlotPosteriorGoal
+[  1%] Built target _slam_msgs_generate_messages_check_deps_SamplePosteriorGoal
+[  1%] Built target _slam_msgs_generate_messages_check_deps_ManipulatePosteriorAction
+[  1%] Built target _slam_msgs_generate_messages_check_deps_SamplePosteriorActionFeedback
+[  1%] Built target _slam_msgs_generate_messages_check_deps_ManipulatePosteriorActionFeedback
+[  1%] Built target _slam_msgs_generate_messages_check_deps_ManipulatePosteriorActionGoal
+[  1%] Built target _slam_msgs_generate_messages_check_deps_SamplePosteriorResult
+[  1%] Built target _slam_msgs_generate_messages_check_deps_SamplePosteriorFeedback
+[  1%] Built target _slam_msgs_generate_messages_check_deps_ManipulatePosteriorFeedback
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MinibatchTrainingActionGoal
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MinibatchTrainingActionResult
+[  1%] Built target _slam_msgs_generate_messages_check_deps_ManipulatePosteriorResult
+[  1%] Built target topic_tools_generate_messages_py
+[  1%] Built target pcl_ros_gencfg
+[  1%] Built target dynamic_reconfigure_generate_messages_cpp
+[  1%] Built target dynamic_reconfigure_generate_messages_lisp
+[  1%] Built target _slam_msgs_generate_messages_check_deps_ManipulatePosteriorActionResult
+[  1%] Built target dynamic_reconfigure_generate_messages_eus
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MinibatchTrainingAction
+[  1%] Built target nodelet_generate_messages_eus
+[  1%] Built target dynamic_reconfigure_generate_messages_py
+[  1%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  1%] Built target dynamic_reconfigure_gencfg
+[  1%] Built target nodelet_generate_messages_cpp
+[  1%] Built target nodelet_generate_messages_nodejs
+[  1%] Built target nodelet_generate_messages_lisp
+[  1%] Built target bond_generate_messages_eus
+[  1%] Built target bond_generate_messages_lisp
+[  1%] Built target nodelet_generate_messages_py
+[  1%] Built target bond_generate_messages_nodejs
+[  1%] Built target _slam_msgs_generate_messages_check_deps_ManipulatePosteriorGoal
+[  1%] Built target bond_generate_messages_cpp
+[  1%] Built target pcl_msgs_generate_messages_cpp
+[  1%] Built target pcl_msgs_generate_messages_eus
+[  1%] Built target bond_generate_messages_py
+[  1%] Built target nodelet_topic_tools_gencfg
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MinibatchTrainingActionFeedback
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MinibatchTrainingFeedback
+[  1%] Built target pcl_msgs_generate_messages_nodejs
+[  1%] Built target std_srvs_generate_messages_cpp
+[  1%] Built target std_srvs_generate_messages_eus
+[  1%] Built target pcl_msgs_generate_messages_py
+[  1%] Built target pcl_msgs_generate_messages_lisp
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MinibatchTrainingResult
+[  1%] Built target std_srvs_generate_messages_lisp
+[  1%] Built target std_srvs_generate_messages_nodejs
+[  1%] Built target topic_tools_generate_messages_cpp
+[  1%] Built target topic_tools_generate_messages_eus
+[  1%] Built target topic_tools_generate_messages_nodejs
+[  1%] Built target std_srvs_generate_messages_py
+[  1%] Built target topic_tools_generate_messages_lisp
+[  1%] Built target nav_msgs_generate_messages_eus
+[  1%] Built target nav_msgs_generate_messages_cpp
+[  1%] Built target nav_msgs_generate_messages_py
+[  1%] Built target _slam_msgs_generate_messages_check_deps_MinibatchTrainingGoal
+[  1%] Built target nav_msgs_generate_messages_lisp
+[  1%] Built target _catkin_empty_exported_target
+[  1%] Generating EusLisp code from auv_model/MbesSimAction.msg
+[  1%] Generating C++ code from auv_model/Sidescan.msg
+[  2%] Generating Python from MSG auv_model/Sidescan
+[  3%] Building CXX object UWExploration/utils/map_features/CMakeFiles/sift_extractor_node.dir/src/sift_extractor.cpp.o
+[  3%] Generating Lisp code from auv_model/Sidescan.msg
+[  3%] Built target nav_msgs_generate_messages_nodejs
+[  3%] Generating EusLisp code from slam_msgs/MbRequest.msg
+[  3%] Generating EusLisp code from auv_model/Sidescan.msg
+[  4%] Building CXX object UWExploration/real_auv/lolo_pf_interface/CMakeFiles/fix_mbes_node.dir/src/fix_meas.cpp.o
+[  4%] Generating Javascript code from auv_model/Sidescan.msg
+[  4%] Building CXX object UWExploration/utils/map_features/CMakeFiles/map_mbes_node.dir/src/map_mbes_node.cpp.o
+[  4%] Generating Python from MSG slam_msgs/MbRequest
+[  4%] Generating Javascript code from slam_msgs/MbRequest.msg
+[  4%] Generating C++ code from slam_msgs/MbRequest.msg
+[  4%] Generating Lisp code from slam_msgs/MbRequest.msg
+[  5%] Generating Python from MSG slam_msgs/MbResult
+[  5%] Generating Lisp code from auv_model/MbesSimAction.msg
+[  5%] Generating Javascript code from slam_msgs/MbResult.msg
+[  6%] Generating Lisp code from slam_msgs/MbResult.msg
+[  6%] Generating Javascript code from auv_model/MbesSimAction.msg
+[  7%] Generating Lisp code from auv_model/MbesSimActionGoal.msg
+[  7%] Generating C++ code from auv_model/MbesSimAction.msg
+[  7%] Generating EusLisp code from slam_msgs/MbResult.msg
+[  7%] Generating EusLisp code from auv_model/MbesSimActionGoal.msg
+[  8%] Generating Lisp code from slam_msgs/PlotPosteriorAction.msg
+[  8%] Generating Javascript code from slam_msgs/PlotPosteriorAction.msg
+[  8%] Generating Lisp code from auv_model/MbesSimActionResult.msg
+[  8%] Generating C++ code from slam_msgs/MbResult.msg
+[  8%] Generating C++ code from slam_msgs/PlotPosteriorAction.msg
+[  8%] Generating EusLisp code from slam_msgs/PlotPosteriorAction.msg
+[  8%] Generating Javascript code from auv_model/MbesSimActionGoal.msg
+[  8%] Generating Javascript code from slam_msgs/PlotPosteriorActionGoal.msg
+[  9%] Generating Lisp code from slam_msgs/PlotPosteriorActionGoal.msg
+[  9%] Generating EusLisp code from auv_model/MbesSimActionResult.msg
+[  9%] Generating Lisp code from auv_model/MbesSimActionFeedback.msg
+[  9%] Generating C++ code from auv_model/MbesSimActionGoal.msg
+[  9%] Generating Javascript code from slam_msgs/PlotPosteriorActionResult.msg
+[ 10%] Generating Javascript code from auv_model/MbesSimActionResult.msg
+[ 10%] Generating EusLisp code from slam_msgs/PlotPosteriorActionGoal.msg
+[ 10%] Generating C++ code from slam_msgs/PlotPosteriorActionGoal.msg
+[ 11%] Generating Python from MSG slam_msgs/PlotPosteriorAction
+[ 11%] Generating EusLisp code from slam_msgs/PlotPosteriorActionResult.msg
+[ 11%] Generating Lisp code from slam_msgs/PlotPosteriorActionResult.msg
+[ 11%] Generating Python from MSG auv_model/MbesSimAction
+[ 12%] Generating Javascript code from auv_model/MbesSimActionFeedback.msg
+[ 13%] Generating Lisp code from auv_model/MbesSimGoal.msg
+[ 14%] Generating Javascript code from slam_msgs/PlotPosteriorActionFeedback.msg
+[ 14%] Generating Javascript code from slam_msgs/PlotPosteriorGoal.msg
+[ 15%] Generating EusLisp code from auv_model/MbesSimActionFeedback.msg
+[ 15%] Generating Lisp code from slam_msgs/PlotPosteriorActionFeedback.msg
+[ 16%] Generating Lisp code from slam_msgs/PlotPosteriorGoal.msg
+[ 16%] Generating Javascript code from auv_model/MbesSimGoal.msg
+[ 16%] Generating Lisp code from auv_model/MbesSimResult.msg
+[ 16%] Generating C++ code from slam_msgs/PlotPosteriorActionResult.msg
+[ 17%] Generating Javascript code from slam_msgs/PlotPosteriorResult.msg
+[ 17%] Generating Lisp code from auv_model/MbesSimFeedback.msg
+[ 18%] Generating C++ code from slam_msgs/PlotPosteriorActionFeedback.msg
+[ 18%] Generating Lisp code from slam_msgs/PlotPosteriorResult.msg
+[ 19%] Generating EusLisp code from slam_msgs/PlotPosteriorActionFeedback.msg
+[ 20%] Generating Javascript code from auv_model/MbesSimResult.msg
+[ 20%] Generating EusLisp code from auv_model/MbesSimGoal.msg
+[ 20%] Generating C++ code from auv_model/MbesSimActionResult.msg
+[ 20%] Generating Javascript code from auv_model/MbesSimFeedback.msg
+[ 21%] Generating Javascript code from slam_msgs/PlotPosteriorFeedback.msg
+[ 22%] Generating Lisp code from auv_model/SssSimAction.msg
+[ 22%] Generating Javascript code from slam_msgs/SamplePosteriorAction.msg
+[ 23%] Generating Python from MSG slam_msgs/PlotPosteriorActionGoal
+[ 23%] Generating Lisp code from slam_msgs/PlotPosteriorFeedback.msg
+[ 24%] Generating C++ code from auv_model/MbesSimActionFeedback.msg
+[ 24%] Generating C++ code from slam_msgs/PlotPosteriorGoal.msg
+[ 25%] Generating EusLisp code from auv_model/MbesSimResult.msg
+[ 25%] Generating EusLisp code from slam_msgs/PlotPosteriorGoal.msg
+[ 26%] Generating C++ code from slam_msgs/PlotPosteriorResult.msg
+[ 27%] Generating Javascript code from slam_msgs/SamplePosteriorActionGoal.msg
+[ 27%] Generating Lisp code from slam_msgs/SamplePosteriorAction.msg
+[ 28%] Generating Lisp code from auv_model/SssSimActionGoal.msg
+[ 28%] Generating Javascript code from auv_model/SssSimAction.msg
+[ 28%] Generating Javascript code from auv_model/SssSimActionGoal.msg
+[ 28%] Generating Javascript code from slam_msgs/SamplePosteriorActionResult.msg
+[ 29%] Generating Python from MSG auv_model/MbesSimActionGoal
+[ 30%] Generating C++ code from slam_msgs/PlotPosteriorFeedback.msg
+[ 31%] Generating EusLisp code from auv_model/MbesSimFeedback.msg
+[ 31%] Generating C++ code from auv_model/MbesSimGoal.msg
+[ 31%] Generating Lisp code from slam_msgs/SamplePosteriorActionGoal.msg
+[ 31%] Generating Lisp code from auv_model/SssSimActionResult.msg
+[ 31%] Generating EusLisp code from slam_msgs/PlotPosteriorResult.msg
+[ 32%] Generating Javascript code from auv_model/SssSimActionResult.msg
+[ 34%] Generating EusLisp code from slam_msgs/PlotPosteriorFeedback.msg
+[ 35%] Generating EusLisp code from slam_msgs/SamplePosteriorAction.msg
+[ 35%] Generating Lisp code from auv_model/SssSimActionFeedback.msg
+[ 35%] Generating Python from MSG slam_msgs/PlotPosteriorActionResult
+[ 36%] Generating Javascript code from auv_model/SssSimActionFeedback.msg
+[ 36%] Generating Javascript code from slam_msgs/SamplePosteriorActionFeedback.msg
+[ 36%] Generating Lisp code from slam_msgs/SamplePosteriorActionResult.msg
+[ 36%] Generating EusLisp code from auv_model/SssSimAction.msg
+[ 37%] Generating Javascript code from slam_msgs/SamplePosteriorGoal.msg
+[ 38%] Generating C++ code from auv_model/MbesSimResult.msg
+[ 38%] Generating Javascript code from auv_model/SssSimGoal.msg
+[ 39%] Generating Lisp code from auv_model/SssSimGoal.msg
+[ 40%] Generating Lisp code from slam_msgs/SamplePosteriorActionFeedback.msg
+[ 40%] Generating Lisp code from slam_msgs/SamplePosteriorGoal.msg
+[ 40%] Generating C++ code from slam_msgs/SamplePosteriorAction.msg
+[ 40%] Generating Python from MSG auv_model/MbesSimActionResult
+[ 40%] Generating Python from MSG auv_model/MbesSimActionFeedback
+[ 41%] Generating Javascript code from auv_model/SssSimResult.msg
+[ 42%] Generating EusLisp code from slam_msgs/SamplePosteriorActionGoal.msg
+[ 42%] Generating EusLisp code from slam_msgs/SamplePosteriorActionResult.msg
+[ 42%] Generating Javascript code from slam_msgs/SamplePosteriorResult.msg
+[ 43%] Generating Lisp code from slam_msgs/SamplePosteriorResult.msg
+[ 43%] Generating Lisp code from auv_model/SssSimResult.msg
+[ 43%] Generating EusLisp code from auv_model/SssSimActionGoal.msg
+[ 44%] Generating C++ code from auv_model/MbesSimFeedback.msg
+[ 44%] Generating Javascript code from slam_msgs/SamplePosteriorFeedback.msg
+[ 45%] Generating Lisp code from slam_msgs/SamplePosteriorFeedback.msg
+[ 45%] Generating Javascript code from auv_model/SssSimFeedback.msg
+[ 45%] Generating Javascript code from slam_msgs/ManipulatePosteriorAction.msg
+[ 45%] Generating C++ code from slam_msgs/SamplePosteriorActionGoal.msg
+[ 45%] Generating Python from MSG slam_msgs/PlotPosteriorActionFeedback
+[ 46%] Generating Lisp code from slam_msgs/ManipulatePosteriorAction.msg
+[ 46%] Generating EusLisp code from slam_msgs/SamplePosteriorActionFeedback.msg
+[ 46%] Generating Lisp code from auv_model/SssSimFeedback.msg
+[ 47%] Generating Lisp code from slam_msgs/ManipulatePosteriorActionGoal.msg
+[ 47%] Generating EusLisp code from auv_model/SssSimActionResult.msg
+[ 47%] Built target auv_model_generate_messages_nodejs
+[ 48%] Generating EusLisp code from slam_msgs/SamplePosteriorGoal.msg
+[ 48%] Generating Lisp code from slam_msgs/ManipulatePosteriorActionResult.msg
+[ 48%] Generating C++ code from auv_model/SssSimAction.msg
+[ 48%] Generating Lisp code from slam_msgs/ManipulatePosteriorActionFeedback.msg
+[ 48%] Generating Javascript code from slam_msgs/ManipulatePosteriorActionGoal.msg
+[ 49%] Generating Lisp code from slam_msgs/ManipulatePosteriorGoal.msg
+[ 49%] Generating Python from MSG auv_model/MbesSimGoal
+[ 49%] Generating C++ code from slam_msgs/SamplePosteriorActionResult.msg
+[ 49%] Built target auv_model_generate_messages_lisp
+[ 50%] Generating C++ code from slam_msgs/SamplePosteriorActionFeedback.msg
+[ 50%] Generating EusLisp code from slam_msgs/SamplePosteriorResult.msg
+[ 51%] Generating EusLisp code from auv_model/SssSimActionFeedback.msg
+[ 51%] Generating Python from MSG auv_model/MbesSimResult
+[ 51%] Generating Lisp code from slam_msgs/ManipulatePosteriorResult.msg
+[ 53%] Generating Python from MSG auv_model/MbesSimFeedback
+[ 53%] Generating Python from MSG slam_msgs/PlotPosteriorGoal
+[ 53%] Generating Javascript code from slam_msgs/ManipulatePosteriorActionResult.msg
+[ 53%] Generating EusLisp code from slam_msgs/SamplePosteriorFeedback.msg
+[ 53%] Generating Python from MSG slam_msgs/PlotPosteriorResult
+[ 53%] Generating C++ code from auv_model/SssSimActionGoal.msg
+[ 53%] Generating C++ code from slam_msgs/SamplePosteriorGoal.msg
+[ 53%] Generating EusLisp code from auv_model/SssSimGoal.msg
+[ 54%] Generating C++ code from slam_msgs/SamplePosteriorResult.msg
+[ 54%] Generating Lisp code from slam_msgs/ManipulatePosteriorFeedback.msg
+[ 54%] Generating EusLisp code from slam_msgs/ManipulatePosteriorAction.msg
+[ 54%] Generating EusLisp code from slam_msgs/ManipulatePosteriorActionGoal.msg
+[ 55%] Generating Javascript code from slam_msgs/ManipulatePosteriorActionFeedback.msg
+[ 55%] Generating Lisp code from slam_msgs/MinibatchTrainingAction.msg
+[ 55%] Generating Lisp code from slam_msgs/MinibatchTrainingActionGoal.msg
+[ 55%] Generating C++ code from auv_model/SssSimActionResult.msg
+[ 55%] Generating Python from MSG auv_model/SssSimAction
+[ 56%] Generating EusLisp code from auv_model/SssSimResult.msg
+[ 57%] Generating Python from MSG auv_model/SssSimActionGoal
+[ 57%] Generating Python from MSG auv_model/SssSimActionFeedback
+[ 57%] Generating Python from MSG auv_model/SssSimActionResult
+[ 57%] Generating Javascript code from slam_msgs/ManipulatePosteriorGoal.msg
+[ 57%] Generating EusLisp code from slam_msgs/ManipulatePosteriorActionResult.msg
+[ 58%] Generating Javascript code from slam_msgs/ManipulatePosteriorResult.msg
+[ 59%] Generating C++ code from slam_msgs/SamplePosteriorFeedback.msg
+[ 59%] Generating Lisp code from slam_msgs/MinibatchTrainingActionResult.msg
+[ 60%] Generating EusLisp code from auv_model/SssSimFeedback.msg
+[ 61%] Generating C++ code from auv_model/SssSimActionFeedback.msg
+[ 61%] Generating Python from MSG slam_msgs/PlotPosteriorFeedback
+[ 61%] Generating EusLisp manifest code for auv_model
+[ 62%] Generating EusLisp code from slam_msgs/ManipulatePosteriorActionFeedback.msg
+[ 63%] Generating Lisp code from slam_msgs/MinibatchTrainingActionFeedback.msg
+[ 63%] Generating C++ code from slam_msgs/ManipulatePosteriorAction.msg
+[ 64%] Generating Javascript code from slam_msgs/ManipulatePosteriorFeedback.msg
+[ 64%] Generating Lisp code from slam_msgs/MinibatchTrainingGoal.msg
+[ 64%] Generating EusLisp code from slam_msgs/ManipulatePosteriorGoal.msg
+[ 64%] Generating C++ code from auv_model/SssSimGoal.msg
+[ 64%] Generating Lisp code from slam_msgs/MinibatchTrainingResult.msg
+[ 65%] Generating Python from MSG auv_model/SssSimGoal
+[ 67%] Generating Lisp code from slam_msgs/MinibatchTrainingFeedback.msg
+[ 67%] Generating Python from MSG auv_model/SssSimResult
+[ 68%] Generating Javascript code from slam_msgs/MinibatchTrainingAction.msg
+[ 68%] Generating Python from MSG auv_model/SssSimFeedback
+[ 68%] Generating C++ code from slam_msgs/ManipulatePosteriorActionGoal.msg
+[ 68%] Generating Python from MSG slam_msgs/SamplePosteriorAction
+[ 68%] Generating Python from MSG slam_msgs/SamplePosteriorActionGoal
+[ 68%] Generating Javascript code from slam_msgs/MinibatchTrainingActionGoal.msg
+[ 69%] Generating Python from MSG slam_msgs/SamplePosteriorActionResult
+[ 70%] Generating C++ code from auv_model/SssSimResult.msg
+[ 70%] Generating Lisp code from slam_msgs/Resample.srv
+[ 71%] Generating EusLisp code from slam_msgs/ManipulatePosteriorResult.msg
+[ 72%] Generating EusLisp code from slam_msgs/ManipulatePosteriorFeedback.msg
+[ 73%] Generating C++ code from slam_msgs/ManipulatePosteriorActionResult.msg
+[ 74%] Generating Javascript code from slam_msgs/MinibatchTrainingActionResult.msg
+[ 75%] Generating EusLisp code from slam_msgs/MinibatchTrainingAction.msg
+[ 76%] Generating C++ code from auv_model/SssSimFeedback.msg
+[ 76%] Generating Javascript code from slam_msgs/MinibatchTrainingActionFeedback.msg
+[ 76%] Built target slam_msgs_generate_messages_lisp
+[ 77%] Generating Javascript code from slam_msgs/MinibatchTrainingGoal.msg
+[ 77%] Generating Javascript code from slam_msgs/MinibatchTrainingResult.msg
+[ 78%] Generating C++ code from slam_msgs/ManipulatePosteriorActionFeedback.msg
+[ 78%] Generating C++ code from slam_msgs/ManipulatePosteriorGoal.msg
+[ 79%] Generating Python msg __init__.py for auv_model
+[ 79%] Generating EusLisp code from slam_msgs/MinibatchTrainingActionGoal.msg
+[ 78%] Generating Javascript code from slam_msgs/MinibatchTrainingFeedback.msg
+[ 79%] Generating Javascript code from slam_msgs/Resample.srv
+[ 80%] Generating Python from MSG slam_msgs/SamplePosteriorActionFeedback
+[ 80%] Generating Python from MSG slam_msgs/SamplePosteriorGoal
+[ 81%] Generating C++ code from slam_msgs/ManipulatePosteriorResult.msg
+[ 82%] Generating EusLisp code from slam_msgs/MinibatchTrainingActionResult.msg
+[ 83%] Generating Python from MSG slam_msgs/SamplePosteriorResult
+[ 83%] Built target auv_model_generate_messages_cpp
+[ 83%] Generating EusLisp code from slam_msgs/MinibatchTrainingActionFeedback.msg
+[ 83%] Generating C++ code from slam_msgs/ManipulatePosteriorFeedback.msg
+[ 84%] Generating C++ code from slam_msgs/MinibatchTrainingAction.msg
+[ 84%] Built target slam_msgs_generate_messages_nodejs
+[ 84%] Generating C++ code from slam_msgs/MinibatchTrainingActionGoal.msg
+[ 85%] Generating C++ code from slam_msgs/MinibatchTrainingActionResult.msg
+[ 85%] Generating EusLisp code from slam_msgs/MinibatchTrainingGoal.msg
+[ 85%] Built target auv_model_generate_messages_eus
+[ 86%] Generating EusLisp code from slam_msgs/MinibatchTrainingResult.msg
+[ 86%] Generating C++ code from slam_msgs/MinibatchTrainingActionFeedback.msg
+[ 86%] Built target auv_model_generate_messages_py
+[ 86%] Built target auv_model_generate_messages
+[ 86%] Generating C++ code from slam_msgs/MinibatchTrainingResult.msg
+[ 86%] Generating Python from MSG slam_msgs/SamplePosteriorFeedback
+[ 87%] Generating C++ code from slam_msgs/MinibatchTrainingGoal.msg
+[ 87%] Generating C++ code from slam_msgs/MinibatchTrainingFeedback.msg
+[ 87%] Generating EusLisp code from slam_msgs/MinibatchTrainingFeedback.msg
+[ 87%] Building CXX object UWExploration/sim_auv/auv_model/CMakeFiles/auv_motion_model.dir/src/auv_motion_simple_node.cpp.o
+[ 87%] Building CXX object UWExploration/sim_auv/auv_model/CMakeFiles/auv_motion_model.dir/src/auv_motion_simple.cpp.o
+[ 87%] Generating EusLisp code from slam_msgs/Resample.srv
+[ 87%] Generating C++ code from slam_msgs/Resample.srv
+[ 87%] Generating EusLisp manifest code for slam_msgs
+[ 88%] Generating Python from MSG slam_msgs/ManipulatePosteriorAction
+[ 89%] Generating Python from MSG slam_msgs/ManipulatePosteriorActionGoal
+[ 89%] Generating Python from MSG slam_msgs/ManipulatePosteriorActionResult
+[ 89%] Generating Python from MSG slam_msgs/ManipulatePosteriorActionFeedback
+[ 90%] Generating Python from MSG slam_msgs/ManipulatePosteriorGoal
+[ 90%] Generating Python from MSG slam_msgs/ManipulatePosteriorResult
+[ 90%] Generating Python from MSG slam_msgs/ManipulatePosteriorFeedback
+[ 90%] Generating Python from MSG slam_msgs/MinibatchTrainingAction
+[ 90%] Built target slam_msgs_generate_messages_cpp
+[ 90%] Generating Python from MSG slam_msgs/MinibatchTrainingActionGoal
+[ 90%] Generating Python from MSG slam_msgs/MinibatchTrainingActionResult
+[ 91%] Generating Python from MSG slam_msgs/MinibatchTrainingActionFeedback
+[ 91%] Generating Python from MSG slam_msgs/MinibatchTrainingGoal
+[ 91%] Generating Python from MSG slam_msgs/MinibatchTrainingResult
+[ 92%] Generating Python from MSG slam_msgs/MinibatchTrainingFeedback
+[ 92%] Generating Python code from SRV slam_msgs/Resample
+[ 92%] Built target slam_msgs_generate_messages_eus
+[ 92%] Generating Python msg __init__.py for slam_msgs
+[ 93%] Generating Python srv __init__.py for slam_msgs
+[ 93%] Linking CXX shared library /home/chd/uwslam_ws/devel/lib/libcnpy.so
+[ 93%] Built target slam_msgs_generate_messages_py
+[ 93%] Built target slam_msgs_generate_messages
+[ 93%] Building CXX object UWExploration/slam/rbpf_slam/CMakeFiles/rbpf_par_slam_node.dir/src/rbpf_par_slam_node.cpp.o
+[ 93%] Building CXX object UWExploration/slam/rbpf_slam/CMakeFiles/rbpf_par_slam_node.dir/src/rbpf_particle.cpp.o
+[ 94%] Building CXX object UWExploration/slam/rbpf_slam/CMakeFiles/rbpf_par_slam_node.dir/src/rbpf_par_slam.cpp.o
+[ 95%] Building CXX object UWExploration/slam/rbpf_slam/CMakeFiles/rbpf_slam.dir/src/rbpf_par_slam.cpp.o
+[ 95%] Building CXX object UWExploration/slam/rbpf_slam/CMakeFiles/rbpf_slam.dir/src/rbpf_particle.cpp.o
+[ 95%] Built target cnpy
+[ 95%] Building CXX object UWExploration/sim_auv/auv_model/CMakeFiles/sss_payload.dir/src/sss_payload.cpp.o
+In file included from /home/chd/uwslam_ws/src/auvlib/install/include/bathy_maps/base_draper.h:21,
+                 from /home/chd/uwslam_ws/src/UWExploration/sim_auv/auv_model/include/auv_model/sss_payload.hpp:10,
+                 from /home/chd/uwslam_ws/src/UWExploration/sim_auv/auv_model/src/sss_payload.cpp:1:
+/home/chd/uwslam_ws/src/auvlib/install/include/data_tools/sensor_offset.h:29:41: warning: unknown escape sequence: '\.'
+   29 |     static std::regex regex_sensor_name("\\[(\.+)\\]");
+      |                                         ^~~~~~~~~~~~~
+[ 96%] Linking CXX shared library /home/chd/uwslam_ws/devel/lib/libsss_payload.so
+/usr/bin/ld: 找不到 -lembree::embree
+collect2: error: ld returned 1 exit status
+make[2]: *** [UWExploration/sim_auv/auv_model/CMakeFiles/sss_payload.dir/build.make:150：/home/chd/uwslam_ws/devel/lib/libsss_payload.so] 错误 1
+make[1]: *** [CMakeFiles/Makefile2:2836：UWExploration/sim_auv/auv_model/CMakeFiles/sss_payload.dir/all] 错误 2
+make[1]: *** 正在等待未完成的任务....
+[ 97%] Linking CXX executable /home/chd/uwslam_ws/devel/lib/auv_model/auv_motion_model
+[ 97%] Built target auv_motion_model
+[ 97%] Linking CXX executable /home/chd/uwslam_ws/devel/lib/lolo_pf_interface/fix_mbes_node
+[ 97%] Linking CXX executable /home/chd/uwslam_ws/devel/lib/map_features/sift_extractor_node
+[ 97%] Built target fix_mbes_node
+[ 98%] Linking CXX executable /home/chd/uwslam_ws/devel/lib/map_features/map_mbes_node
+[ 98%] Built target sift_extractor_node
+[ 98%] Built target map_mbes_node
+[ 98%] Linking CXX executable /home/chd/uwslam_ws/devel/lib/rbpf_slam/rbpf_par_slam_node
+[ 98%] Linking CXX shared library /home/chd/uwslam_ws/devel/lib/librbpf_slam.so
+[ 98%] Built target rbpf_par_slam_node
+[ 98%] Built target rbpf_slam
+make: *** [Makefile:146：all] 错误 2
+Base path: /home/chd/uwslam_ws
+Source space: /home/chd/uwslam_ws/src
+Build space: /home/chd/uwslam_ws/build
+Devel space: /home/chd/uwslam_ws/devel
+Install space: /home/chd/uwslam_ws/install
+####
+#### Running command: "make cmake_check_build_system" in "/home/chd/uwslam_ws/build"
+####
+####
+#### Running command: "make -j16 -l16" in "/home/chd/uwslam_ws/build"
+####
+Invoking "make -j16 -l16" failed

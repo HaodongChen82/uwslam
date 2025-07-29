@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_ManipulatePosteriorAction.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_ManipulatePosteriorActionFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_ManipulatePosteriorActionGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_ManipulatePosteriorActionResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_ManipulatePosteriorFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_ManipulatePosteriorGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_ManipulatePosteriorResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MbRequest.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MbResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MinibatchTrainingAction.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MinibatchTrainingActionFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MinibatchTrainingActionGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MinibatchTrainingActionResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MinibatchTrainingFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MinibatchTrainingGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_MinibatchTrainingResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_PlotPosteriorAction.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_PlotPosteriorActionFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_PlotPosteriorActionGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_PlotPosteriorActionResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_PlotPosteriorFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_PlotPosteriorGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_PlotPosteriorResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_SamplePosteriorAction.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_SamplePosteriorActionFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_SamplePosteriorActionGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_SamplePosteriorActionResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_SamplePosteriorFeedback.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_SamplePosteriorGoal.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/_SamplePosteriorResult.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/msg/__init__.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/srv/_Resample.py"
+  "/home/chd/uwslam_ws/devel/lib/python3/dist-packages/slam_msgs/srv/__init__.py"
+  "CMakeFiles/slam_msgs_generate_messages_py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/slam_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

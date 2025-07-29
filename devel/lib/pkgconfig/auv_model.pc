@@ -1,0 +1,8 @@
+prefix=/home/chd/uwslam_ws/devel
+
+Name: auv_model
+Description: Description of auv_model
+Version: 0.0.0
+Cflags: -I/home/chd/uwslam_ws/devel/include -I/home/chd/uwslam_ws/src/UWExploration/sim_auv/auv_model/include
+Libs: -L${prefix}/lib -lsss_payload
+Requires: 

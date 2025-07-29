@@ -1,0 +1,8 @@
+prefix=/home/chd/uwslam_ws/devel
+
+Name: sss_particle_filter
+Description: Description of sss_particle_filter
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
